@@ -1,15 +1,15 @@
-![](https://komarev.com/ghpvc/?username=Joviviz&color=blueviolet)
 # 👋 Heyo! I'm Jovi!
-
-#### Computer Science student (8th semester, UniCEUB) and **Cybersecurity enthusiast**, focusing on **vulnerability analysis, penetration testing, and system hardening**.
-#### Previous experience as a Front-End Developer, with knowledge of back-end development, databases, and Object-Oriented Programming.
-#### English 🇺🇸 | Portuguese 🇧🇷  
+* Bachelor's degree in Computer Science at [UniCeub](https://www.uniceub.br/)
+* Focusing in Cybersecurity and Network Security
+* English 🇺🇸 | Portuguese 🇧🇷
+* You can checkout my TryHack me progress here: <br>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1f2937?style=for-the-badge&logo=tryhackme&logoColor=#88cc00)](https://tryhackme.com/p/jovivieira)
 
 ## 🛡️ Cybersecurity & Networking  
-- TryHackMe labs (penetration testing, system hardening, vulnerability analysis)
-- Configuration and application of ACLs (CCNA)
-- Network defense and threat identification
-- Security best practices
+* TryHackMe labs (penetration testing, system hardening, vulnerability analysis)
+* Configuration and application of ACLs (CCNA)
+* Network defense and threat identification
+* Security best practices
 
 ## 📈 Technologies 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,7 +27,3 @@
 * [Responsive Web Design](https://www.freecodecamp.org/certification/Joviviz/responsive-web-design)
 * [Network Defense](https://www.credly.com/badges/8ec94c1c-f97a-4317-864b-8add4607c223/linked_in?t=su94ft)
 * [CCNA: Introduction to Networks](https://www.credly.com/badges/947715a1-9a92-4328-ad07-acc5e78ee1d9/public_url)
-
-## 🎓 Education
-* UniCEUB - University Center of Brasília | Computer Science  
-
